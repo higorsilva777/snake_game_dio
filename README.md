@@ -1,4 +1,4 @@
-# Jogo Snake :snake:
+Snake game
 
 
 
